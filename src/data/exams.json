@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "CET Haryana 2026", "date": "2026-04-15T10:00:00", "status": "upcoming", "description": "Common Eligibility Test for Group C & D posts in Haryana" },
+  { "id": 2, "name": "SSC CGL 2026 Tier-1", "date": "2026-02-01T10:00:00", "status": "upcoming", "description": "Staff Selection Commission Combined Graduate Level Examination" },
+  { "id": 3, "name": "HTET 2026", "date": "2026-03-20T10:00:00", "status": "upcoming", "description": "Haryana Teacher Eligibility Test for all levels" },
+  { "id": 4, "name": "Haryana Police Constable 2026", "date": "2026-05-10T10:00:00", "status": "upcoming", "description": "Haryana Police Constable Recruitment Examination" },
+  { "id": 5, "name": "SSC CHSL 2026", "date": "2026-06-01T10:00:00", "status": "upcoming", "description": "Staff Selection Commission Combined Higher Secondary Level Exam" },
+  { "id": 6, "name": "Railway RRB Group D 2026", "date": "2026-04-25T10:00:00", "status": "upcoming", "description": "Railway Recruitment Board Group D Examination" }
+]

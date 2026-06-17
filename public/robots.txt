@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://haryanacoachpro.com/sitemap.xml
+Disallow: /api/
+Disallow: /admin/
